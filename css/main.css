@@ -1,0 +1,34 @@
+body {
+  background-color: #ffffff; }
+
+p, h1, h2, h3 {
+  font-family: 'Helvetica'; }
+
+.hero-image img {
+  max-width: 100%;
+  max-height: 900px; }
+.hero-image .hero-tekst {
+  position: absolute;
+  background-color: rgba(1, 32, 166, 0.8);
+  padding: 36px 50px;
+  bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0; }
+.hero-image p {
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 21px;
+  font-family: Arial, Helvetica, sans-serif; }
+.hero-image #circle {
+  position: absolute;
+  left: -12px;
+  top: -12px; }
+
+header {
+  height: 100px; }
+  header img {
+    position: absolute; }
+
+/*# sourceMappingURL=main.css.map */
